@@ -5,7 +5,7 @@ Este repositório é sua biblioteca essencial com 200 desafios de código e exer
 
 Organizada cuidadosamente, esta coleção foi projetada para aprimorar suas habilidades, cobrindo todos os níveis de proficiência, desde a sintaxe fundamental até tópicos avançados de manipulação de dados e programação assíncrona.
 
-🚀 Como Começar
+🚀 Como Começar\
 É simples e rápido mergulhar nos exercícios!
 
 1. Clone este repositório:
