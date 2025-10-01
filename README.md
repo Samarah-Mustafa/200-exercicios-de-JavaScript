@@ -12,18 +12,6 @@ Organizada cuidadosamente, esta coleção foi projetada para aprimorar suas habi
 
  git clone (https://github.com/Samarah-Mustafa/200-exercicios-de-JavaScript.git)
 
-  🤝 Contribuições
-Este projeto foi construído para a comunidade. Se você tem uma solução mais elegante, encontrou um bug ou quer adicionar um novo desafio, sua contribuição é muito valorizada!
-
-Faça um Fork do projeto.
-
-Crie uma nova Branch (git checkout -b feature/novo-exercicio-X).
-
-Faça o Commit de suas alterações (git commit -m 'feat: Adiciona exercicio 10 de Promises').
-
-Faça o Push para a Branch (git push origin feature/novo-exercicio-X).
-
-Abra um Pull Request.
 
 👤 Autora
 Desenvolvido com dedicação por:
