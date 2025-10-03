@@ -7,4 +7,4 @@ const tempo = {
     return this.horas * 3600 + this.minutos * 60 + this.segundos;
   }
 };
-console.log(`${tempo.horas} horas, ${tempo.minutos} minutos e ${tempo.segundos} segundos equivalem a um total de ${tempo.converterParaSegundos()} segundos`);
+console.log(`${tempo.horas} hora(s), ${tempo.minutos} minuto(s) e ${tempo.segundos} segundo(s) equivalem a um total de ${tempo.converterParaSegundos()} segundos`);
