@@ -1,5 +1,5 @@
-//Exercício 13: Escreva um programa que calcula o IMC (Índice de Massa Corporal) de uma pessoa e imprime uma mensagem indicando se a pessoa está abaixo do peso, com peso normal, com sobrepeso ou obesa.
-
+//Exercício 13: Escreva um programa que calcula o IMC (Índice de Massa Corporal) de uma pessoa
+// e imprime uma mensagem indicando se a pessoa está abaixo do peso, com peso normal, com sobrepeso ou obesa.
 let peso = 47;
 let altura = 1.60;
 let imc = peso / (altura * altura);
