@@ -1,5 +1,4 @@
 //Exercício 21: Escreva um programa que determina a estação do ano com base no mês.
-
 let mes = 9;
 
 let estacao;
