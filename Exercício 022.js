@@ -16,5 +16,4 @@ if (mes === 2) {
 } else {
     dias = "Mês inválido";
 }
-
 console.log("O mês " + mes + " do ano " + ano + " tem " + dias + " dias.");
