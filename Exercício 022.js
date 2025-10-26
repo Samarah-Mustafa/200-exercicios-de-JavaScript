@@ -1,5 +1,4 @@
 //Exercício 22: Escreva um programa que determina o número de dias em um mês, considerando ano bissexto.
-
 let mes = 2;
 let ano = 2024;
 let dias;
