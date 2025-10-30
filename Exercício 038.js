@@ -8,5 +8,3 @@ do {
 } while (i <= 10);
 
 console.log(somaCubos);
-console 
-.log(somaCubos);
