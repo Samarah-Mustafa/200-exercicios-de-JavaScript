@@ -7,3 +7,4 @@ for (let i = 0; i < comprimento; i++) {
   let digito = parseInt(numeroBinario[comprimento - 1 - i]);
   numeroDecimal += digito * Math.pow(2, i);
 }
+console.log(`O número decimal é: ${numeroDecimal}`);
