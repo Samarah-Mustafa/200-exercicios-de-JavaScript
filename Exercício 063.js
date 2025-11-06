@@ -1,4 +1,5 @@
-//Exercício 63: Escreva uma função que receba um número e retorne um array com todos os números primos até aquele número.
+/*Exercício 63: Escreva uma função que receba um número e retorne um array
+com todos os números primos até aquele número*/
 function numerosPrimos(ate) {
     const primos = [];
     for (let i = 2; i <= ate; i++) {
