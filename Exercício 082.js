@@ -1,4 +1,5 @@
-// Exercício 82: Crie um objeto "circulo" que possui uma propriedade de raio e dois métodos que calculam a área e a circunferência.
+/* Exercício 82: Crie um objeto "circulo" que possui uma propriedade de raio
+e dois métodos que calculam a área e a circunferência.*/
 const circulo = {
     raio: 5,
     calcularArea: function() {
