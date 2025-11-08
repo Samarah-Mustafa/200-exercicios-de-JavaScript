@@ -1,4 +1,5 @@
-//Exercício 86:  Crie um objeto "livro" que possui propriedades para o título, autor e número de páginas, e um método para exibir o livro na console.
+/*Exercício 86:  Crie um objeto "livro" que possui propriedades para o título,
+autor e número de páginas, e um método para exibir o livro na console.*/
 const livro = {
     titulo: "Lógica de Programação e Algoritmos com Javascript - 2ª Edição",
     autor: "Edécio Fernando Iepsen",
