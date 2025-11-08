@@ -1,4 +1,5 @@
-//Exercício 98: Dado um array de strings e um array de palavras proibidas, retorne um novo array sem as palavras proibidas.
+/*Exercício 98: Dado um array de strings e um array de palavras proibidas,
+retorne um novo array sem as palavras proibidas.*/
 function removerPalavrasProibidas(textos, proibidas) {
     return textos.filter(palavra => !proibidas.includes(palavra));
 }
