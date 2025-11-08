@@ -1,4 +1,5 @@
-// Exercício 84:  Crie um objeto "retangulo" que possui propriedades para altura e largura, e um método para calcular a área.
+/* Exercício 84:  Crie um objeto "retangulo" que possui propriedades para altura e largura,
+e um método para calcular a área.*/
 const retangulo = {
     altura: 8,
     largura: 15,
