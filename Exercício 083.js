@@ -1,4 +1,5 @@
-// Exercício 83: Crie um objeto "tempo" que possui propriedades para horas, minutos e segundos, e um método para converter o tempo para segundos.
+/* Exercício 83: Crie um objeto "tempo" que possui propriedades para horas, minutos e segundos,
+e um método para converter o tempo para segundos.*/
 const tempo = {
   horas: 1,
   minutos: 30,
