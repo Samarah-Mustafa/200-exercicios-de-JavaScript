@@ -1,4 +1,5 @@
-//Exercício 89: Dada uma string com várias palavras separadas por espaços, transforme-a em um array e depois retorne a palavra mais longa.
+/*Exercício 89: Dada uma string com várias palavras separadas por espaços,
+transforme-a em um array e depois retorne a palavra mais longa.*/
 
 function encontrarPalavraMaisLonga(str) {
     const palavras = str.split(' ');
