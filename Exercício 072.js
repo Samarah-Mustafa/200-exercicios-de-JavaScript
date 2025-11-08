@@ -1,4 +1,6 @@
-//Exercício 72: Escreva uma função que aceite um número, um array de funções de callback e um valor inicial, e retorne o resultado final após a aplicação de todas as funções de callback no valor inicial, o número de vezes especificado.
+/*Exercício 72: Escreva uma função que aceite um número, um array de funções de callback
+e um valor inicial, e retorne o resultado final após a aplicação de todas as funções
+de callback no valor inicial, o número de vezes especificado.*/
 function aplicarCallbacks(numero, callback, valorInicial) {
     let resultado = valorInicial;
     for (let i = 0; i < numero; i++) {
