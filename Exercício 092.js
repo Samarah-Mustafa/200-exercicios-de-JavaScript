@@ -1,4 +1,5 @@
-//Exercício 92: Dado um array de objetos que têm várias propriedades, crie uma função que retorne um novo array contendo apenas os valores de uma propriedade específica.
+/*Exercício 92: Dado um array de objetos que têm várias propriedades,
+crie uma função que retorne um novo array contendo apenas os valores de uma propriedade específica.*/
 function extrairPropriedade(array, propriedade) {
     return array.map(objeto => objeto[propriedade]);
 }
